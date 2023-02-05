@@ -1,0 +1,50 @@
+[
+    {
+        "Name": "Olga",
+        "Surname": "Aristarkhova",
+        "Phone number": "8-916-125-45-09",
+        "Comment": "Private"
+    },
+    {
+        "Name": "Tamara",
+        "Surname": "Kodin",
+        "Phone number": "123456",
+        "Comment": "Sister"
+    },
+    {
+        "Name": "Ilaria",
+        "Surname": "Wheelerson",
+        "Phone number": "654321",
+        "Comment": "daughter1"
+    },
+    {
+        "Name": "Lizy",
+        "Surname": "Curry",
+        "Phone number": "1789654",
+        "Comment": "Hawaii"
+    },
+    {
+        "Name": "Zhenya",
+        "Surname": "Romanova",
+        "Phone number": "987456",
+        "Comment": "Manicure"
+    },
+    {
+        "Name": "Lena",
+        "Surname": "Drum",
+        "Phone number": "54-65-98",
+        "Comment": "Massage"
+    },
+    {
+        "Name": "Ira",
+        "Surname": "Krav",
+        "Phone number": "6547158",
+        "Comment": "Hairdresser"
+    },
+    {
+        "Name": "Nastya",
+        "Surname": "Lunch",
+        "Phone number": "5987456",
+        "Comment": "Teacher"
+    }
+]
